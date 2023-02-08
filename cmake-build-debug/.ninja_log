@@ -1,0 +1,6 @@
+# ninja log v5
+1	187	1675839471212705496	CMakeFiles/assignment3.dir/Deck/unsorted.cpp.o	bab3c4048a5fcb28
+0	218	1675839471244705943	CMakeFiles/assignment3.dir/Deck/ItemTypeCard/ItemType.cpp.o	7813cd8ee372f687
+0	239	1675839471264706223	CMakeFiles/assignment3.dir/Array/unsorted.cpp.o	2a380263c8d77e8c
+1	240	1675839471268706279	CMakeFiles/assignment3.dir/Linked/unsorted.cpp.o	1a3c15efbc09bca3
+1	261	1675839471288706560	CMakeFiles/assignment3.dir/ItemTypeInt/ItemType.cpp.o	5c2c088e421af331
