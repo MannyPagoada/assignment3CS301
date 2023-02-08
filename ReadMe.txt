@@ -32,4 +32,4 @@ Deck
 	deck.cpp			Implementation file for Deck class
 	deckDriver.cpp		Test driver for class Deck
 		
-I have no clue whats going on
+I have no clue what is going on
