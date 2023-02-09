@@ -22,6 +22,8 @@ int main(){
 
     //prompt user for the name of the test run
     cout << "Please enter the Name of the Test Run: ";
+    cin >> nameOfTestRun;
+    
 
 
     //open the input file, reading line by line, and execute the instructions
