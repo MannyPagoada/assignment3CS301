@@ -133,6 +133,13 @@ build CMakeFiles/assignment3.dir/driver.cpp.o: CXX_COMPILER__assignment3_Debug /
   OBJECT_DIR = CMakeFiles/assignment3.dir
   OBJECT_FILE_DIR = CMakeFiles/assignment3.dir
 
+build CMakeFiles/assignment3.dir/unsortedList.cpp.o: CXX_COMPILER__assignment3_Debug /home/manuelpagoada/Documents/CSUEastBaySpring2023/cs301DataStucture/assignment3/unsortedList.cpp || cmake_object_order_depends_target_assignment3
+  DEP_FILE = CMakeFiles/assignment3.dir/unsortedList.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -I/home/manuelpagoada/Documents/CSUEastBaySpring2023/cs301DataStucture/assignment3/Array -I/home/manuelpagoada/Documents/CSUEastBaySpring2023/cs301DataStucture/assignment3/Deck -I/home/manuelpagoada/Documents/CSUEastBaySpring2023/cs301DataStucture/assignment3/Deck/ItemTypeCard -I/home/manuelpagoada/Documents/CSUEastBaySpring2023/cs301DataStucture/assignment3/ItemTypeInt -I/home/manuelpagoada/Documents/CSUEastBaySpring2023/cs301DataStucture/assignment3/Linked
+  OBJECT_DIR = CMakeFiles/assignment3.dir
+  OBJECT_FILE_DIR = CMakeFiles/assignment3.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target assignment3
@@ -141,7 +148,7 @@ build CMakeFiles/assignment3.dir/driver.cpp.o: CXX_COMPILER__assignment3_Debug /
 #############################################
 # Link the executable assignment3
 
-build assignment3: CXX_EXECUTABLE_LINKER__assignment3_Debug CMakeFiles/assignment3.dir/Array/listDriver.cpp.o CMakeFiles/assignment3.dir/Array/unsorted.cpp.o CMakeFiles/assignment3.dir/Deck/ItemTypeCard/ItemType.cpp.o CMakeFiles/assignment3.dir/Deck/deck.cpp.o CMakeFiles/assignment3.dir/Deck/deckDriver.cpp.o CMakeFiles/assignment3.dir/Deck/unsorted.cpp.o CMakeFiles/assignment3.dir/ItemTypeInt/ItemType.cpp.o CMakeFiles/assignment3.dir/Linked/listDriver.cpp.o CMakeFiles/assignment3.dir/Linked/unsorted.cpp.o CMakeFiles/assignment3.dir/CreateListFromFile.cpp.o CMakeFiles/assignment3.dir/PrintList.cpp.o CMakeFiles/assignment3.dir/driver.cpp.o
+build assignment3: CXX_EXECUTABLE_LINKER__assignment3_Debug CMakeFiles/assignment3.dir/Array/listDriver.cpp.o CMakeFiles/assignment3.dir/Array/unsorted.cpp.o CMakeFiles/assignment3.dir/Deck/ItemTypeCard/ItemType.cpp.o CMakeFiles/assignment3.dir/Deck/deck.cpp.o CMakeFiles/assignment3.dir/Deck/deckDriver.cpp.o CMakeFiles/assignment3.dir/Deck/unsorted.cpp.o CMakeFiles/assignment3.dir/ItemTypeInt/ItemType.cpp.o CMakeFiles/assignment3.dir/Linked/listDriver.cpp.o CMakeFiles/assignment3.dir/Linked/unsorted.cpp.o CMakeFiles/assignment3.dir/CreateListFromFile.cpp.o CMakeFiles/assignment3.dir/PrintList.cpp.o CMakeFiles/assignment3.dir/driver.cpp.o CMakeFiles/assignment3.dir/unsortedList.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/assignment3.dir
   POST_BUILD = :

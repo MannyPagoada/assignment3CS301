@@ -26,4 +26,4 @@ add_executable(assignment3
         Linked/unsorted.cpp
         Linked/unsorted.h
         CreateListFromFile.cpp
-        PrintList.cpp driver.cpp)
+        PrintList.cpp driver.cpp unsortedList.h unsortedList.cpp)
